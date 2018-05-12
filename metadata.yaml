@@ -1,0 +1,41 @@
+_repo: Mary-Ware-in-Texas_40366
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Merrill, Frank T.
+    aliases:
+    - Merrill, F. T.
+    - Merrill, Frank Thayer
+    birthdate: 1848
+    gutenberg_agent_id: '6202'
+    url: http://www.gutenberg.org/2009/agents/6202
+covers:
+- cover_type: archival
+  image_path: 40366-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Johnston, Annie F. (Annie Fellows)
+    aliases:
+    - Fellows, Annie
+    - Johnston, Annie Fellows
+    birthdate: 1863
+    deathdate: 1931
+    gutenberg_agent_id: '3050'
+    url: http://www.gutenberg.org/2009/agents/3050
+    wikipedia: http://en.wikipedia.org/wiki/Annie_Fellows_Johnston
+description: ''
+gutenberg_issued: '2012-07-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40366'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: The Little Colonel Series
+subjects:
+- !lcsh 'Texas -- Juvenile fiction'
+- !lcsh 'Young women -- Juvenile fiction'
+- !lcc 'PZ'
+title: Mary Ware in Texas
+url: http://www.gutenberg.org/ebooks/40366
